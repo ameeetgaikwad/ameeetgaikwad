@@ -1,4 +1,10 @@
-### Hi there 👋
+## Hi there 👋 Amit here!
+<hr>
+
+### About me
+I'm a front-end developer and a content creator. I create mostly on twitter and hashnode.
+  
+
 
 <!--
 **ameeetgaikwad/ameeetgaikwad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
