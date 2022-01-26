@@ -1,8 +1,7 @@
-## Hi there 👋 Amit here!
-<hr>
+## Hi there 👋
 
 ### About me
-I'm a front-end developer and a content creator. I create mostly on twitter and hashnode.
+
   
 
 
