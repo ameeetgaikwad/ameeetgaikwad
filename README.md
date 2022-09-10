@@ -5,7 +5,7 @@ Hi,i'm [Amit](https://twitter.com/ameeetgaikwad) a passionate self-taught front-
 - 🌱I love creating beautiful websites, I like to explore new technologies and domain.🚀
 - 🔭I write technical blogs on hashnode📑
 - 👽I love to create content on twitter❤
-- 😁Currently learning ReactJs  <img src="https://github.com/ameeetgaikwad/ameeetgaikwad/blob/main/react.png" height="20x" Width="20">
+- 😁Currently learning ReactJs  <img src="https://github.com/ameeetgaikwad/ameeetgaikwad/blob/main/react.png" height="20x" Width="20"> and Solidity.
 - DM on [twitter](https://twitter.com/ameeetgaikwad)💭
 <a href="https://twitter.com/ameeetgaikwad">
   <img align="left" alt="amit" | "twitter" width="22px"
