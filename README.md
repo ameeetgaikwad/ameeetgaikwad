@@ -22,8 +22,8 @@ Hi,i'm [Amit](https://twitter.com/ameeetgaikwad) a passionate self-taught front-
   <img src="https://github.com/ameeetgaikwad/ameeetgaikwad/blob/main/html-5.png" height="30x" Width="30">
    <img src="https://github.com/ameeetgaikwad/ameeetgaikwad/blob/main/css-3.png" height="30x" Width="30">
    <img src="https://github.com/ameeetgaikwad/ameeetgaikwad/blob/main/js.png" height="30x" Width="30">
-   <img src="https://github.com/ameeetgaikwad/ameeetgaikwad/blob/main/react.png" height="30x" Width="30">
-   <img src="https://github.com/ameeetgaikwad/ameeetgaikwad/blob/main/etherjs.png" height="30x" Width="30">
+   <img src="https://github.com/ameeetgaikwad/ameeetgaikwad/blob/main/react.png" height="32x" Width="30">
+   <img src="https://github.com/ameeetgaikwad/ameeetgaikwad/blob/main/etherjs.png" height="30x" Width="40">
    <img src="https://github.com/ameeetgaikwad/ameeetgaikwad/blob/main/solidity.png" height="30x" Width="30">
   <br><br>
    <img src="https://github.com/ameeetgaikwad/ameeetgaikwad/blob/main/git.png" height="30x" Width="30">
