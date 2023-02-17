@@ -26,25 +26,31 @@ I'm a software engineer building on Ethereum blockchain and makes asthetic websi
 - 👽Love to write content❤
 
 - 🔍Looking to meet new builders.
- 
-
   <br>  <br>
-  
   ## Languages
   <img src="https://github.com/ameeetgaikwad/ameeetgaikwad/blob/main/javascript.svg" height="30x" Width="100">
    <img src="https://github.com/ameeetgaikwad/ameeetgaikwad/blob/main/solidity2.svg" height="30x" Width="100">
      <img src="https://github.com/ameeetgaikwad/ameeetgaikwad/blob/main/java.svg" height="30x" Width="100">
      <br>  <br>
      
-  ## Frontend Technologies
+  ## Frameworks and Technologies
      <img src="https://github.com/ameeetgaikwad/ameeetgaikwad/blob/main/html.svg" height="30x" Width="100">
      <img src="https://github.com/ameeetgaikwad/ameeetgaikwad/blob/main/css.svg" height="30x" Width="100">
      <img src="https://github.com/ameeetgaikwad/ameeetgaikwad/blob/main/javascript.svg" height="30x" Width="100">
      <img src="https://github.com/ameeetgaikwad/ameeetgaikwad/blob/main/react.svg" height="30x" Width="100">
      <img src="https://github.com/ameeetgaikwad/ameeetgaikwad/blob/main/download.jpeg" height="30x" Width="130">
+     <img src="https://github.com/ameeetgaikwad/ameeetgaikwad/blob/main/tailwind.png" height="30x" Width="100">
      <img src="https://github.com/ameeetgaikwad/ameeetgaikwad/blob/main/download%20(1).png" height="50x" Width="100">
-     <img src=" https://github.com/ameeetgaikwad/ameeetgaikwad/blob/main/tailwindcss-ar21.png" height="30x" Width="100">
+     <img src="https://github.com/ameeetgaikwad/ameeetgaikwad/blob/main/Ethereum.svg" height="30x" Width="100">
+     <img src="https://github.com/ameeetgaikwad/ameeetgaikwad/blob/main/git.svg" height="30x" Width="80">
+     <img src="https://github.com/ameeetgaikwad/ameeetgaikwad/blob/main/github.svg" height="30x" Width="100">
+     <img src="https://github.com/ameeetgaikwad/ameeetgaikwad/blob/main/hardhat.svg" height="30x" Width="100">
+     
     <br>  <br>
+     
+  ## Tools
+     
+     
   
   
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ameeetgaikwad&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
