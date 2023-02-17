@@ -21,7 +21,7 @@ Hi,i'm [Amit](https://twitter.com/ameeetgaikwad) a passionate self-taught front-
        src="https://github.com/ameeetgaikwad/ameeetgaikwad/blob/main/medium.png">
   <br>  <br>
   
-  ## Skills & tools
+  ## Blockchains
   <img src="https://github.com/ameeetgaikwad/ameeetgaikwad/blob/main/html-5.png" height="30x" Width="30">
    <img src="https://github.com/ameeetgaikwad/ameeetgaikwad/blob/main/css-3.png" height="30x" Width="30">
    <img src="https://github.com/ameeetgaikwad/ameeetgaikwad/blob/main/js.png" height="30x" Width="30">
