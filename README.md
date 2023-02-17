@@ -2,11 +2,12 @@
 
 ## About me
 Hi,i'm [Amit](https://twitter.com/ameeetgaikwad) a passionate self-taught front-end developer, blogger and content creator. 
-- 🔳I am currently building on Ethereum Blockchain
+- 🔳I am currently building on Ethereum Blockchain.
 - 🌱I love creating beautiful websites, I like to explore new technologies and domain.🚀
 - 🔭I write technical blogs on hashnode📑
 - 👽I love to create content❤
 - 👷‍♂️Looking to meet new builders.
+- 💬 Ask me about Solidity, Smart Contracts, Ethers.js, Hardhat, ReactJs, Chakra UI.
 - 😁Currently learning ReactJs  <img src="https://github.com/ameeetgaikwad/ameeetgaikwad/blob/main/react.png" height="20x" Width="20"> and Solidity.
 - DM on [twitter](https://twitter.com/ameeetgaikwad)💭
 <a href="https://twitter.com/ameeetgaikwad">
