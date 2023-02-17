@@ -8,9 +8,9 @@
   <a href="https://amitgaikwad.hashnode.dev/">
   <img align="left" alt="amit" | "twitter" width="22px"
        src="https://github.com/ameeetgaikwad/ameeetgaikwad/blob/main/icons8-hashnode-48.png">
-   <a href="https://linktr.ee/ameetgaikwad">
+   <a href="https://bio.link/ameet">
   <img align="left" alt="amit" | "twitter" width="22px"
-       src="https://github.com/ameeetgaikwad/ameeetgaikwad/blob/main/linktree.webp">
+       src="https://github.com/ameeetgaikwad/ameeetgaikwad/blob/main/biolink.webp">
 <br>
 
 ## About me
