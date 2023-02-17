@@ -56,5 +56,6 @@ I'm a software engineer building on Ethereum blockchain and makes asthetic websi
      
      
   
- [![GitHub Streak](https://streak-stats.demolab.com/?user=ameeetgaikwad&theme=dark)](https://git.io/streak-stats) 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ameeetgaikwad&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ [![GitHub Streak](https://streak-stats.demolab.com/?user=ameeetgaikwad&theme=dark)](https://git.io/streak-stats) <br>
+ [![Amit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ameeetgaikwad&theme=dark)](https://github.com/anuraghazra/github-readme-stats) <br>
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ameeetgaikwad&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
