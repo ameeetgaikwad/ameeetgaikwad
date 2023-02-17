@@ -27,6 +27,10 @@ I'm a software engineer building on Ethereum blockchain and makes asthetic websi
 
 - 🔍Looking to meet new builders.
   <br>  <br>
+     
+  ## Projects
+   <br>  <br> 
+     
   ## Languages
   <img src="https://github.com/ameeetgaikwad/ameeetgaikwad/blob/main/javascript.svg" height="30x" Width="100">
    <img src="https://github.com/ameeetgaikwad/ameeetgaikwad/blob/main/solidity2.svg" height="30x" Width="100">
