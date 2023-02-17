@@ -5,7 +5,7 @@ Hi,i'm [Amit](https://twitter.com/ameeetgaikwad) a passionate self-taught front-
 
 🔭I'm
 - 🔳Building on Ethereum Blockchain.
-- 💎Contributing to ethereum.org
+- 💎Contributing to <a href="https://ethereum.org" target="_blank">Ethereum</a>
 - 🌱Creating beautiful websites.🚀
 - 👽I love to create content❤
 - 👷‍♂️Looking to meet new builders.
