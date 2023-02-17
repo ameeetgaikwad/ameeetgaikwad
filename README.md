@@ -8,7 +8,7 @@ Hi,i'm [Amit](https://twitter.com/ameeetgaikwad) a passionate self-taught front-
 - 👽I love to create content❤
 - 👷‍♂️Looking to meet new builders.
 - 💬 Ask me about Solidity, Smart Contracts, Ethers.js, Hardhat, ReactJs, Chakra UI.
-- 😁Currently learning ReactJs  <img src="https://github.com/ameeetgaikwad/ameeetgaikwad/blob/main/react.png" height="20x" Width="20"> and Solidity.
+- 😁Currently learning Web2 and Web3 technologies.
 - DM on [twitter](https://twitter.com/ameeetgaikwad)💭
 <a href="https://twitter.com/ameeetgaikwad">
   <img align="left" alt="amit" | "twitter" width="22px"
