@@ -37,26 +37,27 @@ I'm a software engineer building on Ethereum blockchain and makes asthetic websi
    <br>  <br> 
      
 ## Languages
-  <img src="https://github.com/ameeetgaikwad/ameeetgaikwad/blob/main/javascript.svg" height="30x" Width="100">
-   <img src="https://github.com/ameeetgaikwad/ameeetgaikwad/blob/main/solidity2.svg" height="30x" Width="100">
-     <img src="https://github.com/ameeetgaikwad/ameeetgaikwad/blob/main/java.svg" height="30x" Width="100">
-     <br>  <br>
+<a><img src="https://github.com/ameeetgaikwad/ameeetgaikwad/blob/main/javascript.svg" height="30x" Width="100"></a>
+<a><img src="https://github.com/ameeetgaikwad/ameeetgaikwad/blob/main/solidity2.svg" height="30x" Width="100"></a>
+<a><img src="https://github.com/ameeetgaikwad/ameeetgaikwad/blob/main/java.svg" height="30x" Width="100"></a>
+      
+   
+## Frameworks and tools
+<a><img src="https://github.com/ameeetgaikwad/ameeetgaikwad/blob/main/html.svg" height="30x" Width="100"></a>
+<a><img src="https://github.com/ameeetgaikwad/ameeetgaikwad/blob/main/css.svg" height="30x" Width="100"></a>
+<a><img src="https://github.com/ameeetgaikwad/ameeetgaikwad/blob/main/react.svg" height="30x" Width="100"></a>
+<a><img src="https://github.com/ameeetgaikwad/ameeetgaikwad/blob/main/download.jpeg" height="30x" Width="100"></a>
+<a><img src="https://github.com/ameeetgaikwad/ameeetgaikwad/blob/main/tailwind.png" height="30x" Width="100"></a>
+<a><img src="https://github.com/ameeetgaikwad/ameeetgaikwad/blob/main/download%20(1).png" height="30x" Width="100"></a>
+<a><img src="https://github.com/ameeetgaikwad/ameeetgaikwad/blob/main/Ethereum.svg" height="30x" Width="100"></a>
+<a><img src="https://github.com/ameeetgaikwad/ameeetgaikwad/blob/main/git.svg" height="30x" Width="100"></a>
+<a><img src="https://github.com/ameeetgaikwad/ameeetgaikwad/blob/main/github.svg" height="30x" Width="100"></a>
+<a><img src="https://github.com/ameeetgaikwad/ameeetgaikwad/blob/main/hardhat.svg" height="30x" Width="100"></a>
+
      
-## Frameworks and Technologies
-     <img src="https://github.com/ameeetgaikwad/ameeetgaikwad/blob/main/html.svg" height="30x" Width="100">
-     <img src="https://github.com/ameeetgaikwad/ameeetgaikwad/blob/main/css.svg" height="30x" Width="100">
-     <img src="https://github.com/ameeetgaikwad/ameeetgaikwad/blob/main/react.svg" height="30x" Width="100">
-     <img src="https://github.com/ameeetgaikwad/ameeetgaikwad/blob/main/download.jpeg" height="30x" Width="130">
-     <img src="https://github.com/ameeetgaikwad/ameeetgaikwad/blob/main/tailwind.png" height="30x" Width="100">
-     <img src="https://github.com/ameeetgaikwad/ameeetgaikwad/blob/main/download%20(1).png" height="50x" Width="100">
-     <img src="https://github.com/ameeetgaikwad/ameeetgaikwad/blob/main/Ethereum.svg" height="30x" Width="100">
-     <img src="https://github.com/ameeetgaikwad/ameeetgaikwad/blob/main/git.svg" height="30x" Width="80">
-     <img src="https://github.com/ameeetgaikwad/ameeetgaikwad/blob/main/github.svg" height="30x" Width="100">
-     <img src="https://github.com/ameeetgaikwad/ameeetgaikwad/blob/main/hardhat.svg" height="30x" Width="100">
+   
      
-    <br>  <br>
-     
-     
+   <br>  
   
  [![GitHub Streak](https://streak-stats.demolab.com/?user=ameeetgaikwad&theme=dark)](https://git.io/streak-stats) <br>
  [![Amit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ameeetgaikwad&theme=dark)](https://github.com/anuraghazra/github-readme-stats) <br>
