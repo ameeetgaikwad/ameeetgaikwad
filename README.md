@@ -1,15 +1,20 @@
-## Hi there <img src="https://github.com/ameeetgaikwad/ameeetgaikwad/blob/main/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966.gif" height="30x" Width="30">
+## Hi there <img src="https://github.com/ameeetgaikwad/ameeetgaikwad/blob/main/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966.gif" height="30x" Width="30">I'm Amit!
 
 ## About me
-Hi,i'm [Amit](https://twitter.com/ameeetgaikwad) a passionate self-taught front-end developer, blogger and content creator. 
 
 🔭I'm
 - 🔳Building on Ethereum Blockchain.
-- 💎Contributing to <a href="https://ethereum.org" target="_blank">Ethereum</a>
+ 
+- 💎Contributor at <a href="https://ethereum.org" target="_blank">Ethereum</a>
+ 
 - 🌱Creating beautiful websites.🚀
+ 
 - 👽I love to create content❤
+ 
 - 👷‍♂️Looking to meet new builders.
+ 
 - 💬 Ask me about Solidity, Smart Contracts, Ethers.js, Hardhat, ReactJs, Chakra UI.
+ 
 - 😁Currently learning Web2 and Web3 technologies.
 - DM on [twitter](https://twitter.com/ameeetgaikwad)💭
 <a href="https://twitter.com/ameeetgaikwad">
