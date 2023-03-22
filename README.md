@@ -33,7 +33,9 @@ I'm a software engineer building on Ethereum blockchain and makes asthetic websi
 
      
 ## Communities I'm part of and contribute to
-- Ethereum
+- Ethereum <br>
+     <a href="https://github.com/ethereum/ethereum-org-website/pull/7893"> PR1</a> <br>
+     <a href="https://github.com/ethereum/ethereum-org-website/pull/9500">PR2</a>
    <br>  <br> 
      
 ## Languages
