@@ -28,7 +28,7 @@ I'm a software engineer building on Ethereum blockchain and makes asthetic websi
 - 🔍Looking to meet new builders.
   <br>  <br>
      
-## Projects
+<!-- ## Projects -->
      
 
      
