@@ -19,7 +19,7 @@ I'm a software engineer building on Ethereum blockchain and makes asthetic websi
 🔭I'm
 - 🔳Building on Ethereum Blockchain.
  
-- 💎Contributor at <a href="https://ethereum.org">Ethereum.org</a>
+- 💎Contributor at <a href="https://ethereum.org">Ethereum.org</a>, <a href="https://cal.com">Cal.com</a>
  
 - 🌱Creating beautiful websites.🚀
  
