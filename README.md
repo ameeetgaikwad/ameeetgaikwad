@@ -39,7 +39,7 @@ I'm a software engineer building on Ethereum blockchain and makes asthetic websi
    <br>  <br> 
      
 ## Languages
-<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-blue?&style=for-the-badge&logo=typescript&logoColor=white" />
+<a><img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-blue?&style=for-the-badge&logo=typescript&logoColor=white" /></a>
 <a><img alt="JavaScript" src="https://github.com/ameeetgaikwad/ameeetgaikwad/blob/main/javascript.svg" height="30x" Width="100"></a>
 <a><img alt="Solidity" src="https://github.com/ameeetgaikwad/ameeetgaikwad/blob/main/solidity2.svg" height="30x" Width="100"></a>
 <a><img src="https://github.com/ameeetgaikwad/ameeetgaikwad/blob/main/java.svg" height="30x" Width="100"></a>
