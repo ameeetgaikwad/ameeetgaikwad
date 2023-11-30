@@ -39,6 +39,7 @@ I'm a software engineer building on Ethereum blockchain and makes asthetic websi
    <br>  <br> 
      
 ## Languages
+<a><img src="[https://github.com/ameeetgaikwad/ameeetgaikwad/blob/main/javascript.svg](https://camo.githubusercontent.com/6d1e266e0494d1ef69971afe811baa4da7982f8830949783bf3e3df1b61c377e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d547970655363726970742d626c75653f267374796c653d666f722d7468652d6261646765266c6f676f3d74797065736372697074266c6f676f436f6c6f723d7768697465)" height="30x" Width="100"></a>
 <a><img src="https://github.com/ameeetgaikwad/ameeetgaikwad/blob/main/javascript.svg" height="30x" Width="100"></a>
 <a><img src="https://github.com/ameeetgaikwad/ameeetgaikwad/blob/main/solidity2.svg" height="30x" Width="100"></a>
 <a><img src="https://github.com/ameeetgaikwad/ameeetgaikwad/blob/main/java.svg" height="30x" Width="100"></a>
