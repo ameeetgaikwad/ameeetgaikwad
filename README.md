@@ -48,9 +48,11 @@ I'm a software engineer building on Ethereum blockchain and makes asthetic websi
       
    
 ## Frameworks and tools
-<a><img src="https://github.com/ameeetgaikwad/ameeetgaikwad/blob/main/react.svg" height="30x" Width="100"></a>
-<a><img src="https://github.com/ameeetgaikwad/ameeetgaikwad/blob/main/download.jpeg" height="30x" Width="100"></a> <br>
+<a><img alt="NextJs" src="https://img.shields.io/badge/NextJS-20232A?style=for-the-badge&logo=nextjs&logoColor=black" /></a>
+<a><img alt="ReactJs" src="https://github.com/ameeetgaikwad/ameeetgaikwad/blob/main/react.svg" height="30x" Width="100"></a>
 <a><img src="https://github.com/ameeetgaikwad/ameeetgaikwad/blob/main/tailwind.png" height="30x" Width="100"></a>
+<a><img src="https://github.com/ameeetgaikwad/ameeetgaikwad/blob/main/download.jpeg" height="30x" Width="100"></a> <br>
+
 <a><img src="https://github.com/ameeetgaikwad/ameeetgaikwad/blob/main/download%20(1).png" height="50x" Width="100"></a>
 <a><img src="https://github.com/ameeetgaikwad/ameeetgaikwad/blob/main/Ethereum.svg" height="30x" Width="100"></a>
 <a><img src="https://github.com/ameeetgaikwad/ameeetgaikwad/blob/main/git.svg" height="30x" Width="100"></a> <br>
