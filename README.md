@@ -39,6 +39,8 @@ I'm a software engineer building on Ethereum blockchain and makes asthetic websi
    <br>  <br> 
      
 ## Languages
+<a><img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" /></a>
+<a><img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" /></a>
 <a><img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-blue?&style=for-the-badge&logo=typescript&logoColor=white" /></a>
 <a><img alt="JavaScript" src="https://github.com/ameeetgaikwad/ameeetgaikwad/blob/main/javascript.svg" height="30x" Width="100"></a>
 <a><img alt="Solidity" src="https://github.com/ameeetgaikwad/ameeetgaikwad/blob/main/solidity2.svg" height="30x" Width="100"></a>
@@ -46,8 +48,6 @@ I'm a software engineer building on Ethereum blockchain and makes asthetic websi
       
    
 ## Frameworks and tools
-<a><img src="https://github.com/ameeetgaikwad/ameeetgaikwad/blob/main/html.svg" height="30x" Width="100"></a>
-<a><img src="https://github.com/ameeetgaikwad/ameeetgaikwad/blob/main/css.svg" height="30x" Width="100"></a>
 <a><img src="https://github.com/ameeetgaikwad/ameeetgaikwad/blob/main/react.svg" height="30x" Width="100"></a>
 <a><img src="https://github.com/ameeetgaikwad/ameeetgaikwad/blob/main/download.jpeg" height="30x" Width="100"></a> <br>
 <a><img src="https://github.com/ameeetgaikwad/ameeetgaikwad/blob/main/tailwind.png" height="30x" Width="100"></a>
