@@ -52,12 +52,14 @@ I'm a software engineer building on Ethereum blockchain and makes asthetic websi
 <a><img alt="ReactJs" src="https://github.com/ameeetgaikwad/ameeetgaikwad/blob/main/react.svg" height="30x" Width="100" /></a>
 <a><img src="https://github.com/ameeetgaikwad/ameeetgaikwad/blob/main/tailwind.png" height="30x" Width="100" /></a>
 <a><img alt="ChakraUI" src="https://img.shields.io/badge/Chakra%20UI-%234ED0C5?&style=for-the-badge" /></a>
+<a><img alt="NodeJs" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /></a>
+<a><img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /></a>
  <br>
 
 
-<a><img alt="ChakraUI" src="https://img.shields.io/badge/EtherJS-%232434A0?&style=for-the-badge" /></a>
+<a><img alt="EtherJs" src="https://img.shields.io/badge/EtherJS-%232434A0?&style=for-the-badge" /></a>
 <a><img src="https://github.com/ameeetgaikwad/ameeetgaikwad/blob/main/Ethereum.svg" height="30x" Width="100"></a>
-<a><img src="https://github.com/ameeetgaikwad/ameeetgaikwad/blob/main/git.svg" height="30x" Width="100"></a> <br>
+<a><img src="https://github.com/ameeetgaikwad/ameeetgaikwad/blob/main/git.svg" height="30x" Width="100"></a>
 <a><img src="https://github.com/ameeetgaikwad/ameeetgaikwad/blob/main/github.svg" height="30x" Width="100"></a>
 <a><img src="https://github.com/ameeetgaikwad/ameeetgaikwad/blob/main/hardhat.svg" height="30x" Width="100"></a>
 
