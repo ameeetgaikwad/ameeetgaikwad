@@ -37,7 +37,7 @@ i write sometimes at [hashnode](https://amitgaikwad.hashnode.dev)
 #### stats
 
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ameeetgaikwad&theme=dark&hide_border=true" alt="streak" />
+  <img src="https://streak-stats.demolab.com?user=ameeetgaikwad&theme=dark&hide_border=true" alt="streak" />
 </p>
 
 <p>
