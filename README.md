@@ -20,23 +20,11 @@ follow me on <a href="https://twitter.com/ameeetgaikwad" target="_blank">twitter
 
 #### what i work with
 
-**frontend**
-- TypeScript
-- Next.js
-- React
-- TailwindCSS
-- Tanstack
+**frontend** TypeScript · Next.js · React · TailwindCSS · Tanstack
 
-**backend**
-- Go
-- Node.js
-- PostgreSQL
-- Redis
+**backend** Go · Node.js · PostgreSQL · Redis
 
-**web3**
-- Solidity
-- Ethers.js
-- Solana
+**web3** Solidity · Ethers.js · Solana
 
 #### open source
 
@@ -46,7 +34,7 @@ follow me on <a href="https://twitter.com/ameeetgaikwad" target="_blank">twitter
 #### stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=ameeetgaikwad&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ameeetgaikwad&show_icons=true&theme=dark&hide_border=true&count_private=true&cache_seconds=86400" alt="GitHub Stats" />
 </p>
 
 </details>
