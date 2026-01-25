@@ -34,8 +34,19 @@ i write sometimes at [hashnode](https://amitgaikwad.hashnode.dev)
 - [ethereum.org](https://github.com/ethereum/ethereum-org-website) — docs & frontend contributions
 - [cal.com](https://github.com/calcom/cal.com) — contributor
 
-#### activity
+#### stats
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ameeetgaikwad&theme=github-compact&hide_border=true&area=true)
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ameeetgaikwad&theme=dark&hide_border=true" alt="streak" />
+</p>
+
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ameeetgaikwad&theme=github_dark" alt="contribution graph" />
+</p>
+
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ameeetgaikwad&theme=github_dark" alt="stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ameeetgaikwad&theme=github_dark&utcOffset=5.5" alt="productive time" />
+</p>
 
 </details>
