@@ -11,9 +11,7 @@
 +                                                              +
 ```
 
-find me on [linkedin](https://linkedin.com/in/ameeetgaikwad) · [twitter](https://twitter.com/ameeetgaikwad)
-
-i write sometimes at [hashnode](https://amitgaikwad.hashnode.dev)
+follow me on [twitter](https://twitter.com/ameeetgaikwad) · explore more at [ametret.com](https://ametret.com)
 
 <details>
 <summary>more about me</summary>
