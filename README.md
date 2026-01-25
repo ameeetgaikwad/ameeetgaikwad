@@ -44,9 +44,4 @@ i write sometimes at [hashnode](https://amitgaikwad.hashnode.dev)
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ameeetgaikwad&theme=github_dark" alt="contribution graph" />
 </p>
 
-<p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ameeetgaikwad&theme=github_dark" alt="stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ameeetgaikwad&theme=github_dark&utcOffset=5.5" alt="productive time" />
-</p>
-
 </details>
