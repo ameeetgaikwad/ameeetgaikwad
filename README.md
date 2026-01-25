@@ -11,7 +11,7 @@
 +                                                              +
 ```
 
-follow me on [twitter](https://twitter.com/ameeetgaikwad) · explore more at [ametret.com](https://ametret.com)
+follow me on [twitter](https://twitter.com/ameeetgaikwad) · explore more at [ametret.com](https://ameeet.com)
 
 <details>
 <summary>more about me</summary>
