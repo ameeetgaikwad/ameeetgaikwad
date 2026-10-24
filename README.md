@@ -11,7 +11,7 @@
 +                                                              +
 ```
 
-follow me on <a href="https://twitter.com/ameeetgaikwad" target="_blank">twitter</a> · explore more at <a href="https://ameeet.com" target="_blank">ameeet.com</a>
+follow me on <a href="https://twitter.com/ameeetgaikwad" target="_blank">twitter</a> · explore more at <a href="https://ameeet.dev" target="_blank">ameeet.dev</a>
 
 <details>
 <summary>more about me</summary>
